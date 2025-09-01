@@ -2,23 +2,41 @@
 
 **`🧑🏽‍💻 Desenvolvedor back-end`**
 
+Sou apaixonado por tecnologia e inovação, com experiência prática em projetos de implantação de sistemas (MES e CMMS) que aumentaram produtividade e digitalizaram processos industriais. Atuei com análise de dados, melhoria de processos e gestão de estoque, sempre buscando soluções eficientes e orientadas a resultados.
+
+ Atualmente, estou focado no desenvolvimento de software, aprimorando minhas habilidades em Java, Python e SQL. Tenho facilidade em trabalhar com sistemas ERP, gestão de projetos e análise crítica de dados — competências que fortalecem minha capacidade de colaborar em times ágeis e ambientes dinâmicos.
+
+Estou em busca de uma oportunidade de estágio em TI, onde possa aplicar meu conhecimento técnico e minha experiência prática para gerar valor, aprender e crescer junto com a equipe. Acredito que a inovação nasce da colaboração e da vontade contínua de evoluir.
+
 
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/paulo-vilela-123456789/">
+        <img 
+            alt="LinkedIn"
+            title="Meu LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white"
+        />
     </a>
-    </a> 
+    <a href="https://github.com/PauloAV?tab=commits">
+        <img 
+            alt="Activity"
+            title="Atividade no GitHub"
+            src="https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather"
+        />
+    </a>
     <a href="https://github.com/PauloAV?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PauloAV?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo="
         />
     </a>
     <a href="https://github.com/PauloAV?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PauloAV?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Followers-blue.svg?logo=github&logoColor=white"
         />
     </a>
 </p>
@@ -29,44 +47,21 @@
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -75,13 +70,23 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 <br/>
