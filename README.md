@@ -102,3 +102,10 @@ Estou em busca de uma oportunidade de estágio em TI, onde possa aplicar meu con
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PauloAV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+    <img 
+        align="left" 
+        alt="Top Langs" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAV&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"
+    />
